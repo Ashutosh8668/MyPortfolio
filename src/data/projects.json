@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-SHOP",
+    "imageSrc": "projects/ESHOP.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "MYSQL", "NodeJs","SpringBoot"],
+    "demo": "https://github.com/Ashutosh8668/ESHOP-PLATFORM",
+    "source": "https://github.com/Ashutosh8668/ESHOP-PLATFORM"
+  },
+  {
+    "title": "Hotel Service",
+    "imageSrc": "projects/78f5286a4efdf15a26d718163d5a8010.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Micro-Services", "ReactJs", "MongoDb", "Postgresql"],
+    "demo": "https://github.com/Ashutosh8668/Hotel-Management-Service",
+    "source": "https://github.com/Ashutosh8668/Hotel-Management-Service"
+  },
+  {
+    "title": "Student Portal",
+    "imageSrc": "projects/logo.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Django", "Python", "MYSQL","AI-ML"],
+    "demo": "https://github.com/Ashutosh8668/Student-Portal",
+    "source": "https://github.com/Ashutosh8668/Student-Portal"
+  }
+]

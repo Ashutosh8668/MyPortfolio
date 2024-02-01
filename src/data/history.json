@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Competitive Skills",
+    "organisation": "Platform",
+    "startDate": "Dec, 2023",
+    "endDate": "Now",
+    "experiences": ["CODCHEF- 2 STAR", "HACKERRANK- 3 STAR"],
+    "imageSrc": "history/codechef-icon-filled-256.png"
+  },
+  {
+    "role": "Global Certifications",
+    "organisation": "",
+    "startDate": "Aug 2023",
+    "endDate": "Dec 2023",
+    "experiences": ["Microsoft Azure-900", "Oracale Cloud Infrastructure"],
+    "imageSrc": "history/microsoft-certified-azure-fundamentals (1).png"
+  },
+  {
+    "role": "Eduskill Virtual Cloud Internship ",
+    "organisation": "AWS",
+    "startDate": "Sept 2023",
+    "endDate": "Nov 2023",
+    "experiences": [
+      "Learned Basic Fundamentals of AWS",
+      "Analyse different components of Cloud Architechture"
+    ],
+    "imageSrc": "history/1630901765-AICTE In Collaboration With MoE & EduSkills Launched Virtual Internships-01.png"
+  }
+]
