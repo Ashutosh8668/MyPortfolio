@@ -2,7 +2,7 @@
   {
     "title": "E-SHOP",
     "imageSrc": "projects/ESHOP.jpg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Built a user-friendly e-commerce platform with React.js for browsing, cart management, and order placement. Designed a robust backend using Spring Boot and MySQL to manage product, cart, and order data. Integrated Auth0 for authentication and implemented features like product listings, user accounts, and secure payment processing.",
     "skills": ["ReactJs", "MYSQL", "NodeJs","SpringBoot"],
     "demo": "https://github.com/Ashutosh8668/ESHOP-PLATFORM",
     "source": "https://github.com/Ashutosh8668/ESHOP-PLATFORM"
