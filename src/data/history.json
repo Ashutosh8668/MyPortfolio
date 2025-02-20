@@ -4,7 +4,7 @@
     "organisation": "Platform",
     "startDate": "Dec, 2023",
     "endDate": "Now",
-    "experiences": ["CODCHEF- 2 STAR", "HACKERRANK- 3 STAR"],
+    "experiences": ["Codechef - 2 ⭐", "Hackerrank - 3 ⭐","Solved Over 300+ problems all over platforms"],
     "imageSrc": "history/codechef-icon-filled-256.png"
   },
   {
@@ -12,14 +12,14 @@
     "organisation": "",
     "startDate": "Aug 2023",
     "endDate": "Dec 2023",
-    "experiences": ["Microsoft Azure-900", "Oracale Cloud Infrastructure"],
+    "experiences": ["Microsoft Azure-900", "Oracle Cloud Infrastructure"],
     "imageSrc": "history/microsoft-certified-azure-fundamentals (1).png"
   },
   {
     "role": "Eduskill Virtual Cloud Internship ",
     "organisation": "AWS",
     "startDate": "Sept 2023",
-    "endDate": "Nov 2023",
+    "endDate": "Now",
     "experiences": [
       "Learned Basic Fundamentals of AWS",
       "Analyse different components of Cloud Architechture"
