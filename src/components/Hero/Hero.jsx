@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm a full-stack developer with  experience  of using React and
           Springboot.I am a undergraduate student of BTech from Computer Engineering branch.
         </p>
-        <a href="ashutosh.rajput@mitaoe.ac.in" className={styles.contactBtn}>
+        <a href="a.rajput866843@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
