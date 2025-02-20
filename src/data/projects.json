@@ -10,7 +10,10 @@
   {
     "title": "Hotel Service",
     "imageSrc": "projects/78f5286a4efdf15a26d718163d5a8010.jpg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Developed a hotel booking system using Java microservices and Spring Boot for secure and scalable reservations.
+ Implemented features like rating, hotel, and user services with MySQL and MongoDB for data management.
+ Utilized Config Server, Eureka client, and Resilience4j for fault tolerance, and built a responsive React.js
+ frontend with integrated REST APIs",
     "skills": ["Micro-Services", "ReactJs", "MongoDb", "Postgresql"],
     "demo": "https://github.com/Ashutosh8668/Hotel-Management-Service",
     "source": "https://github.com/Ashutosh8668/Hotel-Management-Service"
