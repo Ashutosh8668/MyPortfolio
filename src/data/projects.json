@@ -18,7 +18,7 @@
   {
     "title": "Student Portal",
     "imageSrc": "projects/logo.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Developed a student profile management system using Django and SQLite. Designed database schemas, implemented backend logic, and created a responsive frontend using HTML, CSS, and JavaScript. Enhanced data handling capabilities with Pandas.",
     "skills": ["Django", "Python", "MYSQL","AI-ML"],
     "demo": "https://github.com/Ashutosh8668/Student-Portal",
     "source": "https://github.com/Ashutosh8668/Student-Portal"
