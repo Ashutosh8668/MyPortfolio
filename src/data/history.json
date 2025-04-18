@@ -2,7 +2,7 @@
   {
     "role": "Competitive Skills",
     "organisation": "Platform",
-    "startDate": "Dec, 2023",
+    "startDate": "April, 2025",
     "endDate": "Now",
     "experiences": ["Codechef - 3 ⭐", "Hackerrank - 3 ⭐","Solved Over 300+ problems all over platforms"],
     "imageSrc": "history/codechef-icon-filled-256.png"
@@ -20,10 +20,10 @@
     "organisation": "SDE Intern",
     "startDate": "Dec 2024",
     "endDate": "Current",
-    "experiences": [
-      "Maintaining frontend with React.js and backend with C# and .NET for the Symmera Project.",
-      "Integrating APIs and ensuring responsive designs."
-    ],
+   "experiences": [
+  "Optimized React.js frontend in Symmera, integrated APIs, and resolved SonarQube issues for better code quality.",
+  "Managed Azure cloud, automated CI/CD pipelines, and streamlined deployments as part of the DevOps team."
+  ],
     "imageSrc": "history/Logo.png"
   }
 ]
