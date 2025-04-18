@@ -26,11 +26,6 @@ export const ProjectCard = ({
         ))}
       </ul>
       <div className={styles.links}>
-        {demo && (
-          <a href={demo} className={styles.link} target="_blank" rel="noreferrer">
-            Demo
-          </a>
-        )}
         <a href={source} className={styles.link} target="_blank" rel="noreferrer">
           Source
         </a>
