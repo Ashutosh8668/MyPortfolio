@@ -31,5 +31,9 @@
   {
     "title": "Docker",
     "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Terraform",
+    "imageSrc": "skills/terraform.png"
   }
 ]
