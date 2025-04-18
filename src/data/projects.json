@@ -1,25 +1,40 @@
 [
   {
-    "title": "E-Commerce App",
-    "imageSrc": "projects/ESHOP.jpg",
-    "description": "Built a user-friendly e-commerce platform with React.js for browsing, cart management, and order placement. Designed a robust backend using Spring Boot and MySQL to manage product, cart, and order data. Integrated Auth0 for authentication and implemented features like product listings, user accounts, and secure payment processing.",
-    "skills": ["Java", "ReactJs", "MYSQL","SpringBoot"],
-    "demo": "https://github.com/Ashutosh8668/ESHOP-PLATFORM",
-    "source": "https://github.com/Ashutosh8668/ESHOP-PLATFORM"
-  },
-  {
-    "title": "Hotel Service",
+    "title": "HMS Service – A Hotel Booking System",
     "imageSrc": "projects/78f5286a4efdf15a26d718163d5a8010.jpg",
-    "description": "Developed a hotel booking system using Java microservices and Spring Boot for secure and scalable reservations. Implemented rating, hotel, and user services with MySQL and MongoDB for data management. Utilized Config Server, Eureka client, and Resilience4j for fault tolerance, and built a responsive React.js frontend integrated with REST APIs",
-    "skills": ["Java", "ReactJs", "Microservices", "SpringBoot"],
+    "description": [
+      "Designed and developed a scalable hotel booking system using Java microservices and Spring Boot.",
+      "Implemented rating, hotel, and user services with MySQL and MongoDB for efficient data management.",
+      "Ensured high availability with Config Server, Eureka client, and Resilience4j for fault tolerance.",
+      "Built a responsive React.js frontend integrated with REST APIs for seamless user interactions."
+    ],
+    "skills": ["Java", "ReactJS", "Microservices", "SpringBoot", "MySQL", "MongoDB"],
     "demo": "https://github.com/Ashutosh8668/Hotel-Management-Service",
     "source": "https://github.com/Ashutosh8668/Hotel-Management-Service"
   },
   {
-    "title": "Student Portal",
+    "title": "Eshop – An E-commerce Application",
+    "imageSrc": "projects/ESHOP.jpg",
+    "description": [
+      "Developed a full-stack e-commerce platform enabling browsing, cart management, and secure order placement.",
+      "Engineered the backend using Spring Boot and MySQL to manage products, orders, and user data efficiently.",
+      "Integrated Auth0 for authentication and enhanced security for transactions.",
+      "Designed a responsive UI using React.js and Bootstrap, ensuring seamless usability across devices."
+    ],
+    "skills": ["Java", "ReactJS", "MySQL", "SpringBoot", "Bootstrap", "CSS"],
+    "demo": "https://github.com/Ashutosh8668/ESHOP-PLATFORM",
+    "source": "https://github.com/Ashutosh8668/ESHOP-PLATFORM"
+  },
+  {
+    "title": "Student Profile Portal",
     "imageSrc": "projects/logo.png",
-    "description": "Developed a student profile management system using Django and SQLite, enabling efficient student data management. Designed database schemas, implemented backend logic, and created a responsive frontend using HTML, CSS, and JavaScript. Enhanced data handling capabilities with Pandas for efficient data processing and analysis.",
-    "skills": ["Python", "Django", "ML","SQLite"],
+    "description": [
+      "Built a student profile management system using Django with SQLite for structured data storage.",
+      "Designed and optimized database schemas to improve query performance and data retrieval.",
+      "Developed backend logic for handling student records, profiles, and authentication.",
+      "Created a responsive frontend using HTML, CSS, and JavaScript, improving usability."
+    ],
+    "skills": ["Python", "Django", "SQLite", "REST APIs", "JavaScript", "HTML", "CSS"],
     "demo": "https://github.com/Ashutosh8668/Student-Portal",
     "source": "https://github.com/Ashutosh8668/Student-Portal"
   }
