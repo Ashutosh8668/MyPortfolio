@@ -27,7 +27,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I create secure, scalable APIs using Spring Boot & Node.js, turning ideas into robust systems.
+                I create secure, scalable APIs using Spring Boot & Django, turning ideas into robust systems.
               </p>
             </div>
           </li>
