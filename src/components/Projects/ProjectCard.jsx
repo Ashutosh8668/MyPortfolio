@@ -13,11 +13,11 @@ export const ProjectCard = ({
         className={styles.image}
       />
       <h3 className={styles.title}>{title}</h3>
-      <ul className={styles.description}>
+      <div className={styles.description}>
         {description.split("\n").map((point, index) => (
-          <li key={index}>{point.replace(/^•\s*/, "")}</li>
+          <p key={index}>{point}</p>  
         ))}
-      </ul>
+      </div>
       <ul className={styles.skills}>
         {skills.map((skill, id) => (
           <li key={id} className={styles.skill}>
