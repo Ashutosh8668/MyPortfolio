@@ -7,7 +7,8 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ashutosh Rajput</h1>
+        <h1 className={styles.title}>Hi,\n</h1>
+        <h1 className={styles.title}>I'm Ashutosh Rajput</h1>
         <p className={styles.description}>
           I'm a full-stack developer with  experience  of using React and
           Springboot.I am a undergraduate student of BTech from Computer Engineering branch.
