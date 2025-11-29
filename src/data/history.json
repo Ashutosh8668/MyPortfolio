@@ -30,10 +30,8 @@
   "endDate": "Present",
   "experiences": [
     "Worked on React.js features and UI improvements for Symmera.",
-    "Fixed code issues and improved quality through SonarQube.",
     "Built backend workflows and triggers using C# on Protrak.",
     "Handled Azure services, deployments, and CI/CD pipelines.",
-    "Optimized components to speed up feature delivery.",
     "Created PowerShell scripts for automation.",
     "Resolved multiple UI issues and improved overall stability."
   ],
