@@ -1,29 +1,52 @@
 [
   {
     "role": "Competitive Skills",
-    "organisation": "Platform",
-    "startDate": "April, 2025",
-    "endDate": "Now",
-    "experiences": ["Codechef - 3 ⭐", "Hackerrank - 3 ⭐","Solved Over 300+ problems all over platforms"],
+    "organisation": "Platforms",
+    "startDate": "April 2025",
+    "endDate": "Present",
+    "experiences": [
+      "CodeChef — 3★ (1653 Rating)",
+      "Solved 400+ problems across LeetCode, CodeChef & HackerRank",
+      "Strong problem-solving in C++ and Java"
+    ],
     "imageSrc": "history/codechef-icon-filled-256.png"
   },
   {
     "role": "Global Certifications",
-    "organisation": "",
+    "organisation": "Cloud",
     "startDate": "Aug 2023",
     "endDate": "Dec 2023",
-    "experiences": ["Microsoft Azure-900", "Oracle Cloud Infrastructure"],
+    "experiences": [
+      "Microsoft Azure Fundamentals (AZ-900)",
+      "Oracle Cloud Infrastructure – Foundation Associate",
+      "AWS Academy Cloud Architecting"
+    ],
     "imageSrc": "history/microsoft-certified-azure-fundamentals (1).png"
   },
   {
     "role": "Prorigo Software Pvt. Ltd",
     "organisation": "SDE Intern",
     "startDate": "Dec 2024",
-    "endDate": "Current",
-   "experiences": [
-  "Optimized React.js frontend in Symmera, integrated APIs, and resolved SonarQube issues for better code quality.",
-  "Managed Azure cloud, automated CI/CD pipelines, and streamlined deployments as part of the DevOps team."
-  ],
+    "endDate": "June 2025",
+    "experiences": [
+      "Optimized React.js frontend for Symmera, improving performance and UX.",
+      "Resolved SonarQube issues and improved code quality by ~50%.",
+      "Developed backend workflows and automated triggers using C# in Protrak.",
+      "Managed Azure cloud services and CI/CD pipelines."
+    ],
+    "imageSrc": "history/Logo.png"
+  },
+  {
+    "role": "Prorigo Software Pvt. Ltd",
+    "organisation": "Software Developer Trainee",
+    "startDate": "June 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Improved feature delivery speed by ~30% with optimized React.js components.",
+      "Automated workflows using C# triggers and Protrak framework.",
+      "Streamlined Azure CI/CD pipelines using PowerShell scripts.",
+      "Resolved 50+ UI issues, reducing post-release defects by ~25%."
+    ],
     "imageSrc": "history/Logo.png"
   }
 ]
