@@ -23,30 +23,20 @@
     ],
     "imageSrc": "history/microsoft-certified-azure-fundamentals (1).png"
   },
-  {
-    "role": "Prorigo Software Pvt. Ltd",
-    "organisation": "SDE Intern",
-    "startDate": "Dec 2024",
-    "endDate": "June 2025",
-    "experiences": [
-      "Optimized React.js frontend for Symmera, improving performance and UX.",
-      "Resolved SonarQube issues and improved code quality by ~50%.",
-      "Developed backend workflows and automated triggers using C# in Protrak.",
-      "Managed Azure cloud services and CI/CD pipelines."
-    ],
-    "imageSrc": "history/Logo.png"
-  },
-  {
-    "role": "Prorigo Software Pvt. Ltd",
-    "organisation": "Software Developer Trainee",
-    "startDate": "June 2025",
-    "endDate": "Present",
-    "experiences": [
-      "Improved feature delivery speed by ~30% with optimized React.js components.",
-      "Automated workflows using C# triggers and Protrak framework.",
-      "Streamlined Azure CI/CD pipelines using PowerShell scripts.",
-      "Resolved 50+ UI issues, reducing post-release defects by ~25%."
-    ],
-    "imageSrc": "history/Logo.png"
-  }
+ {
+  "role": "Prorigo Software Pvt. Ltd",
+  "organisation": "SDE Intern → Software Developer Trainee",
+  "startDate": "Dec 2024",
+  "endDate": "Present",
+  "experiences": [
+    "Worked on React.js features and UI improvements for Symmera.",
+    "Fixed code issues and improved quality through SonarQube.",
+    "Built backend workflows and triggers using C# on Protrak.",
+    "Handled Azure services, deployments, and CI/CD pipelines.",
+    "Optimized components to speed up feature delivery.",
+    "Created PowerShell scripts for automation.",
+    "Resolved multiple UI issues and improved overall stability."
+  ],
+  "imageSrc": "history/Logo.png"
+ }
 ]
