@@ -10,7 +10,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi,<br /></h1>
         <h1 className={styles.title}>I'm Ashutosh Rajput</h1>
         <p className={styles.description}>
-          Hello, I'm a full-stack developer passionate about building web applications 
+          I'm a full-stack developer passionate about building web applications 
           with React and Spring Boot. I love exploring new technologies and solving 
           real-world problems through code.
       </p>
