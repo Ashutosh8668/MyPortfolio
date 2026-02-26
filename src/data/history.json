@@ -6,8 +6,8 @@
     "endDate": "Present",
     "experiences": [
       "CodeChef — 3★ (1653 Rating)",
-      "Solved 400+ problems across LeetCode, CodeChef & HackerRank",
-      "Strong problem-solving in C++ and Java"
+      "Solved 450+ problems across LeetCode, CodeChef & HackerRank",
+      "Strong problem-solving skills in C++"
     ],
     "imageSrc": "history/codechef-icon-filled-256.png"
   },
@@ -18,23 +18,22 @@
     "endDate": "Dec 2023",
     "experiences": [
       "Microsoft Azure Fundamentals (AZ-900)",
-      "Oracle Cloud Infrastructure – Foundation Associate",
+      "Oracle Cloud Infrastructure — Foundation Associate",
       "AWS Academy Cloud Architecting"
     ],
     "imageSrc": "history/microsoft-certified-azure-fundamentals (1).png"
   },
- {
-  "role": "Prorigo Software Pvt. Ltd",
-  "organisation": "SDE Intern → Software Developer Trainee",
-  "startDate": "Dec 2024",
-  "endDate": "Present",
-  "experiences": [
-    "Worked on React.js features and UI improvements for Symmera.",
-    "Built backend workflows and triggers using C# on Protrak.",
-    "Handled Azure services, deployments, and CI/CD pipelines.",
-    "Created PowerShell scripts for automation.",
-    "Resolved multiple UI issues and improved overall stability."
-  ],
-  "imageSrc": "history/Logo.png"
- }
+  {
+    "role": "Software Engineer I",
+    "organisation": "Prorigo Software Pvt. Ltd.",
+    "startDate": "Dec 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Optimized Symmera’s React.js frontend for performance, accessibility, and code quality.",
+      "Developed workflow automation using C# trigger and scheduler services on Protrak.",
+      "Troubleshot and resolved UI/API issues, improving system stability and response times.",
+      "Managed Azure CI/CD pipelines and automated deployments using PowerShell and YAML."
+    ],
+    "imageSrc": "history/Logo.png"
+  }
 ]
